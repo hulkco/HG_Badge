@@ -1,4 +1,4 @@
-15672754090362017
+15623368244345385
 Battery
 9VFemale
 
@@ -5795,6 +5795,13 @@ U.FL-R-SMT
 0
 4
 4
+Connectors_4UCON
+4UCON_17909_02x401.27mm_Vertical
+BBC micro:bit vertical edge connector
+bbc microbit edge connector vertical
+0
+80
+80
 Connector_Audio
 Jack_3.5mm_Neutric_NMJ6HCD2_Horizontal
 NMJ6HCD2, TRS 1/4\\\\\\\\ (http://www.neutrik.com/zoolu-website/media/download/2890/Drawing+NMJ6HCD2)
@@ -39255,6 +39262,13 @@ DCDC-Converter TRACO TSR-1
 0
 3
 3
+Cozumel
+Ment.All.01
+Imported from Ment.svg
+svg2mod
+0
+0
+0
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter
@@ -40466,6 +40480,20 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+D1_mini
+D1_mini_Pin_Header
+Through hole pin header
+pin header
+0
+8
+8
+D1_mini
+OSHW
+OSHW
+Symbol, OSHW-Logo, Silk Screen,
+0
+0
+0
 Diode_SMD
 Diode_Bridge_Diotec_ABS
 SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
@@ -56986,258 +57014,6 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-PCBWay
-CAPSENSE-CIRCLE2-D10MM
-
-
-0
-1
-1
-PCBWay
-Corona_SilKs
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-Corona_SilKs_2
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-Corona_SilKs_3
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-Corona_SilKs_Back_1
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-C_1206_HandSoldering
-Capacitor SMD 1206, hand soldering
-capacitor 1206
-0
-2
-2
-PCBWay
-DIODE-SMA
-Diode SMA
-Diode SMA
-0
-2
-2
-PCBWay
-FirmaCuMask
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_100_Edge_Cuts
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_Edge.Cuts.High1
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_Edge.SilkS.1
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_Edge.SilkS.2
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_Edge.SilkS.3
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_Edge_Cuts_2
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_SilkS.Back.1
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_SilkS.Back.2
-Imported from HG_SilkS_Edge_Cuts.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_SmallLogo
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-HG_SmallLogo_Back
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-hormiga con borde
-Imported from borde.svg
-svg2mod4
-0
-0
-0
-PCBWay
-H_CapSense
-Imported from HG.svg
-svg2mod
-0
-0
-0
-PCBWay
-KiCad-Logo2_8mm_SilkScreen
-KiCad Logo
-Logo KiCad
-0
-0
-0
-PCBWay
-LED_1206_HandSoldering
-LED SMD 1206, hand soldering
-LED 1206
-0
-2
-2
-PCBWay
-logo_letra_Cu
-Imported from logo_letra_Cu.svg
-svg2mod
-0
-0
-0
-PCBWay
-logo_letra_Mask
-Imported from logo_letra_Mask.svg
-svg2mod
-0
-0
-0
-PCBWay
-Molex_PicoBlade_53261-0271_02x1.25mm_Angled
-Molex PicoBlade, single row, side entry type, surface mount, PN:53261-0271
-connector molex picoblade smt
-0
-4
-2
-PCBWay
-MountingHole_3.5mm_Pad
-Mounting Hole 3.5mm
-mounting hole 3.5mm
-0
-1
-1
-PCBWay
-OSHW-Logo2_14.6x12mm_SilkScreen
-Open Source Hardware Symbol
-Logo Symbol OSHW
-0
-0
-0
-PCBWay
-pcbway3
-
-
-0
-0
-0
-PCBWay
-Pin_Header_Straight_1x02_Pitch2.54mm_SMD_Pin1Left
-surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 1 (pin 1 left)
-Surface mounted pin header SMD 1x02 2.54mm single row style1 pin1 left
-0
-2
-2
-PCBWay
-Pin_Header_Straight_1x03_Pitch2.54mm_SMD_Pin1Left
-surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
-Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
-0
-3
-3
-PCBWay
-Pin_Header_Straight_1x03_Pitch2.54mm_SMD_Pin1Right
-surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 2 (pin 1 right)
-Surface mounted pin header SMD 1x03 2.54mm single row style2 pin1 right
-0
-3
-3
-PCBWay
-Pin_Header_Straight_2x03_Pitch2.54mm_SMD
-surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x03 2.54mm double row
-0
-6
-6
-PCBWay
-R_1206_HandSoldering
-Resistor SMD 1206, hand soldering
-resistor 1206
-0
-2
-2
-PCBWay
-SOIJ-8_5.3x5.3mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-PCBWay
-SOT-223-3Lead_TabPin2
-module CMS SOT223 4 pins
-CMS SOT
-0
-4
-3
-PCBWay
-WS2812B
-
-
-0
-4
-4
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
